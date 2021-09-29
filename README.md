@@ -1,14 +1,15 @@
-# Hi there, I am 0xOpsDev 👋
+# Hi there!, I am 0xOpsDev 👋
 
-[![Contact](https://img.shields.io/badge/-OpsDev-4285F4?style=for-the-badge&logo=Google&logoColor=FFFFFF)](mailto:opsdev12911@gmail.com)
+[![Contact](https://img.shields.io/badge/-PsYcHo%20RaGE-7289D9?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/5eRvDvy)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=0xOpsDev.0xOpsDev&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/0xOpsDev)
 
+- 💻 I am a Science student who is struggling to learn computer programming.
 
-* 💻 I am a Science student who is struggling to learn computer programming.
+- 🎓 I am currently on my way to pursue my masters.
 
-* 🎓 I am currently on my way to pursue my masters. 
+- ⚒ Currently working on to improve my problem solving skills as I am really bad at it 😁
 
-* ⚒ Currently working on to improve my problem solving skills as I am really bad at it 😁
+## Languages and Tools
 
 📚 Learning...
 
@@ -42,7 +43,7 @@
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=FFFFFF)](https://www.scipy.org/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
 
-## 📊 GitHub STATISTICS
+## 📊 GitHub status
 
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xOpsDev&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" alt="0xOpsDev's GitHub statistics" />
