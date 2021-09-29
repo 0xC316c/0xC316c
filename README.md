@@ -28,19 +28,15 @@
 
 👨‍💻 Using...
 
+[![RAD Studio Delphi](https://img.shields.io/badge/-RAD%20Studio%20Delphi-F32735?style=for-the-badge&logo=Embarcadero&logoColor=FFFFFF)](https://www.embarcadero.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
-[![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)](https://github.com/features/actions)
 [![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)](https://daringfireball.net/projects/markdown/)
 [![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=for-the-badge&logo=Microsoft%20Office&logoColor=FFFFFF)](https://www.office.com/)
-[![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=FFFFFF)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFFFFF)](https://pandas.pydata.org/)
-[![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=for-the-badge&logo=Plotly&logoColor=FFFFFF)](https://plotly.com/)
-[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
-[![pytest](https://img.shields.io/badge/-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=FFFFFF)](https://docs.pytest.org/)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-5EE078?style=for-the-badge&logo=PyCharm&logoColor=FFFFFF)](https://www.jetbrains.com/pycharm/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=FFFFFF)](https://scikit-learn.org/)
-[![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=FFFFFF)](https://www.scipy.org/)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6B33AE?style=for-the-badge&logo=VisualStudio&logoColor=FFFFFF)](https://visualstudio.microsoft.com/)
+[![WebStorm](https://img.shields.io/badge/-WebStorm-2196DD?style=for-the-badge&logo=WebStorm&logoColor=FFFFFF)](https://www.jetbrains.com/webstorm/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
 
 ## 📊 GitHub status
