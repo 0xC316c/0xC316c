@@ -9,7 +9,7 @@
 
 - ⚒ Currently working on to improve my problem solving skills as I am really bad at it 😁
 
-## Languages and Tools
+## 🌍🛠 Languages and Tools
 
 📚 Learning...
 
