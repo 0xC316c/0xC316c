@@ -22,9 +22,11 @@
 
 📖 Learning from...
 
+[![ACM](https://img.shields.io/badge/-ACM-0085CA?style=for-the-badge&logo=ACM&logoColor=FFFFFF)](https://www.acm.org/)
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
-[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 [![edX](https://img.shields.io/badge/-edX-00262B?style=for-the-badge&logo=edX&logoColor=FFFFFF)](https://www.udemy.com/)
+[![PluralSight](https://img.shields.io/badge/-Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=FFFFFF)](https://www.pluralsight.com/)
+[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 
 👨‍💻 Using...
 
