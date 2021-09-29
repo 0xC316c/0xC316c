@@ -4,7 +4,7 @@
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=0xOpsDev.0xOpsDev&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/0xOpsDev)
 
 
-* 💻 I am a Science Student who is struggling to learn computer programming languages each and every day. *sighs
+* 💻 I am a Science student who is struggling to learn computer programming.
 
 * 🎓 I am currently on my way to pursue my masters. 
 
@@ -18,6 +18,12 @@
 [![CSS](https://img.shields.io/badge/-CSS-E34F26?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.w3schools.com/css/css_intro.asp)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)](https://www.javascript.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
+
+📖 LEARNING FROM
+
+[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
+[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
+[![edX](https://img.shields.io/badge/-edX-00262B?style=for-the-badge&logo=edX&logoColor=FFFFFF)](https://www.udemy.com/)
 
 👨‍💻 USING
 
@@ -36,16 +42,11 @@
 [![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=for-the-badge&logo=SciPy&logoColor=FFFFFF)](https://www.scipy.org/)
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/windows/)
 
-📖 LEARNING FROM
-
-[![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
-[![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
-
 ## 📊 GitHub STATISTICS
 
 <p>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=0xOpsDev&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" alt="0xOpsDev's GitHub statistics">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xOpsDev&layout=compact&custom_title=Most%20used%20languages" alt="0xOpsDev's most used languages">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xOpsDev&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" alt="0xOpsDev's GitHub statistics" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xOpsDev&layout=compact&custom_title=Most%20used%20languages" alt="0xOpsDev's most used languages" />
 </p>
 
 
