@@ -10,7 +10,7 @@
 
 * ⚒ Currently working on to improve my problem solving skills as I am really bad at it 😁
 
-📚 LEARNING
+📚 Learning...
 
 [![Python](https://img.shields.io/badge/-Python-4584B6?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![Delphi](https://img.shields.io/badge/-Object%20Pascal-F32735?style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.freepascal.org/)
@@ -19,13 +19,13 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=FFFFFF)](https://www.javascript.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
 
-📖 LEARNING FROM
+📖 Learning from...
 
 [![Coursera](https://img.shields.io/badge/-Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=FFFFFF)](https://www.coursera.org/)
 [![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 [![edX](https://img.shields.io/badge/-edX-00262B?style=for-the-badge&logo=edX&logoColor=FFFFFF)](https://www.udemy.com/)
 
-👨‍💻 USING
+👨‍💻 Using...
 
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
