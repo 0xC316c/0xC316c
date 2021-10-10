@@ -3,7 +3,7 @@
 [![Contact](https://img.shields.io/badge/-PsYcHo%20RaGE-7289D9?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/5eRvDvy)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=0xOpsDev.0xOpsDev&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/0xOpsDev)
 
-- 💻 I am a Science student who is struggling to learn computer programming.
+- 💻 I am a Science student who is on the verge to learn computer programming.
 
 - 🎓 I am currently on my way to pursue my masters.
 
