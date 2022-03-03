@@ -1,13 +1,23 @@
 # Hi there!, I am 0xC316c 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=CS+Student%2C+a+programmer+%26+a+reverse+engineer;Currently+pursuing+masters+in+Computer+Science;Working+on+to+improve+my+problem+solving+skills)](https://git.io/typing-svg)
+
 [![Contact](https://img.shields.io/badge/-PsYcHo%20RaGE-7289D9?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/5eRvDvy)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=0xC316c.0xC316c&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/0xC316c)
+<a href="https://github.com/0xC316c?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xC316c"/></a>
+  <a href="https://github.com/0xC316c?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xC316c?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-- 💻 I am a Science student who is on the verge to learn computer programming.
+- 💻 I am a CS student, a programmer & a reverse engineer.
 
-- 🎓 I am currently on my way to pursue my masters.
+- 🎓 I am currently on my way to pursue masters in CS.
 
-- ⚒ Currently working on to improve my problem solving skills as I am really bad at it 😁
+- ⚒ Working on to improve my problem solving skills!
+
+## 🔥 Streak status
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xC316c&theme=blood-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🌍🛠 Languages and Tools
 
@@ -42,11 +52,11 @@
 
 ## 📊 GitHub status
 
+[![0xC316c's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xC316c&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xC316c&count_private=true&show_icons=true&theme=tokyonight&hide_title=true" alt="0xC316c's GitHub statistics" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&custom_title=Most%20used%20languages" alt="0xC316c's most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xC316c&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="0xC316c's GitHub statistics" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages" alt="0xC316c's most used languages" />
 </p>
-
 
 <!---
 0xC316c/0xC316c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
