@@ -53,7 +53,7 @@
 
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=0xC316c&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=0xC316c&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages&card_width=280)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 0xC316c/0xC316c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
