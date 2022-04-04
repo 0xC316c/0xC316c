@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=600&lines=CS+Student%2C+a+programmer+%26+a+reverse+engineer;Currently+pursuing+masters+in+Computer+Science;Working+on+to+improve+my+problem+solving+skills)](https://git.io/typing-svg)
 
-[![Contact](https://img.shields.io/badge/-PsYcHo%20RaGE-7289D9?style=for-the-badge&logo=Discord&logoColor=FFFFFF)](https://discord.gg/5eRvDvy)
 [![Visits Badge](https://shields-io-visitor-counter.herokuapp.com/badge?page=0xC316c.0xC316c&color=1D70B8&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/0xC316c)
 <a href="https://github.com/0xC316c?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/0xC316c"/></a>
@@ -55,7 +54,7 @@
 [![0xC316c's github activity graph](https://activity-graph.herokuapp.com/graph?username=0xC316c&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xC316c&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="0xC316c's GitHub statistics" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages" alt="0xC316c's most used languages" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages" alt="0xC316c's most used languages" />
 </p>
 
 <!---
