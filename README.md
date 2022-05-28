@@ -8,9 +8,9 @@
   <a href="https://github.com/0xC316c?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/0xC316c?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
-- 💻 I am a CS student, a programmer & a reverse engineer.
+- 💻 CS student, a programmer & a reverse engineer.
 
-- 🎓 I am currently on my way to pursue masters in CS.
+- 🎓 I am currently pursuing masters in CS.
 
 - ⚒ Working on to improve my problem solving skills!
 
