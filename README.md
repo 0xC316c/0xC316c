@@ -45,7 +45,7 @@
 
 ## 📊 GitHub status
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xC316c&bg_color=000000&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0xC316c&bg_color=0d1117&color=ffffff&line=00ff00&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub statistics](https://github-readme-stats.vercel.app/api?username=0xC316c&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xC316c&layout=compact&theme=react&hide_border=true&custom_title=Most%20used%20languages&card_width=297)](https://github.com/anuraghazra/github-readme-stats)
 
