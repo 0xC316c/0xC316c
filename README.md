@@ -15,7 +15,7 @@
 
 ## 🌍🛠 Languages and Tools
 
-📚 Learning...
+📚 Knows...
 
 [![Python](https://img.shields.io/badge/-Python-4584B6?style=for-the-badge&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![Delphi](https://img.shields.io/badge/-Object%20Pascal-F32735?style=for-the-badge&logo=Delphi&logoColor=FFFFFF)](https://www.freepascal.org/)
@@ -23,7 +23,7 @@
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)](https://www.w3schools.com/css/css_intro.asp)
 [![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)](https://www.mysql.com/)
 
-📖 Learning from...
+📖 Learns from...
 
 [![Udemy](https://img.shields.io/badge/-Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=FFFFFF)](https://www.udemy.com/)
 [![edX](https://img.shields.io/badge/-edX-00262B?style=for-the-badge&logo=edX&logoColor=FFFFFF)](https://www.edx.org/)
@@ -34,6 +34,7 @@
 👨‍💻 Using...
 
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D7?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+[![RAD Studio Delphi](https://img.shields.io/badge/-RAD%20Studio%20Delphi-F32735?style=for-the-badge&logo=Embarcadero&logoColor=FFFFFF)](https://www.embarcadero.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-6B33AE?style=for-the-badge&logo=VisualStudio&logoColor=FFFFFF)](https://visualstudio.microsoft.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://www.github.com/)
