@@ -9,7 +9,7 @@
 
 - 💻 Programmer
 
-- ⚒ Fixing bugs!
+- ⚒ Fixing bugs...
 
 ## 🔥 Streak status
 
