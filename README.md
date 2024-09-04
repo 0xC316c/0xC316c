@@ -9,9 +9,7 @@
 
 - 💻 Programmer
 
-- 🎓 Currently pursuing masters.
-
-- ⚒ Working on to improve my problem solving skills!
+- ⚒ Fixing bugs!
 
 ## 🔥 Streak status
 
